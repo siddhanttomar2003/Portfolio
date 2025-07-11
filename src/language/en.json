@@ -1,0 +1,70 @@
+{
+    "home": "Home",
+    "about": "About me",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+
+
+    "site-web": "websites",
+    "games": "games",
+
+
+    "greeting": "Hello",
+    "name": "I am Siddhant Tomar",
+    "rol": "Problem Solver and Full Stack Developer",
+
+
+    "im": "who I am",
+    "description": "I am an IT student at NIT Raipur with a current CPI of 9.12, deeply passionate about competitive programming and data structures & algorithms (DSA). My journey has been enriched by my contributions to GSSoC and my expertise in React JS and ExpressJs. I am currently focused on learning backend technologies to further expand my skill set and become a versatile developer.",
+    "years": "Age: ",
+    "from": "From: ",
+    "btn-know-more": "Read more",
+    "tools": "Tools",
+
+
+    "design": "Design UX/UI",
+    "design-info": "Design of attractive interfaces for both web and mobile users, making the most of the brand or product that the client wishes to exploit on their website",
+    "development": "Web development",
+    "development-info": "Creation of well-structured web pages, good responsive design, attractive color palette, with interactions that give the user satisfaction when browsing the website.",
+    "marketing": "Digital marketing",
+    "marketing-info": "Prepare a strategy and objectives for the promotion of the brand provided by the client, using the internet or other platforms to promote products and services of the brand in question.",
+    "maintenance": "Web maintenance",
+    "maintenance-info": "Complete maintenance of web pages to detect and solve errors, update content whether text, photos, web design elements, add new functions, etc.",
+    "seo": "Web positioning (SEO)",
+    "seo-info": "Web positioning through SEO, so your website appears in the main search results according to your business, both in Google, Bing, or other internet search engines",
+    "optimization": "Website optimization",
+    "optimization-info": "Complete optimization of your web page, improving loading speed, using optimized images, a good URL, to give a better experience to users who visit the website",
+
+
+    "btn-more-projects": "More projects",
+
+
+    "contact-info": "Contact me by: ",
+
+
+    "footer-info": "Page created by Siddhant Tomar",
+
+
+    "about-info-1": "I’m Siddhant Tomar, a final-year B.Tech student in Information Technology at NIT Raipur with a CPI of 9.04. I’ve been consistently practicing Data Structures and Algorithms for over two years, solving 2500+ problems across platforms like LeetCode, Codeforces, and CodeChef. I secured AIR 2 in the HMEL Energy Quest and have a strong interest in web development, building full-stack applications using the MERN stack (MongoDB, Express, React, Node.js). I’m passionate about solving complex problems and continuously improving my skills through hands-on projects and competitions.",
+    "about-info-2": "I consider myself a self-taught person since I like to be constantly learning day by day, both new technologies and new development methods that help me polish and raise my level of learning.",
+    "about-info-3": "I have experience working as a freelance web designer and developer, which gave me the opportunity to work on many interesting projects, adapting to the client's needs and budget, which allowed me to improve my skills and knowledge; Additionally, I have also had the opportunity to be part of some online and face-to-face courses that helped me enrich my skills and learn a little more about this beautiful world of web development.",
+    "btn-cv": "Download CV",
+    "about-skills-1": "More than a year of professional experience in this language, allows me to perform without problems in the industry.",
+    "about-skills-2": "More than a year of work experience in this language, I use it daily to develop web designs and interfaces.",
+    "about-skills-3": "A year of experience using it in the front-end and back-end branch, allowed me to familiarize myself with the language, and include it in my work projects.",
+    "about-skills-4": "One year using this preprocessor in the professional field, I include it in many of my projects since it allows me a better structured code.",
+    "about-skills-5": "Less than a year using this framework, even so, I used it in countless work projects, which allowed me to get to know it for the most part.",
+    "about-skills-6": "A year using this bookstore in the personal and work environment, it is one of the bookstores that I use and manipulate the most.",
+    "about-skills-7": "More than a year using this JavaScript framework, carrying out multiple personal and work projects.",
+    "about-skills-8": "It is the cross-platform runtime environment that I use to make my web applications scalable.",
+    "about-skills-9": "It is a framework that I use mostly to be able to manage my APIs in the best way and my http execution model.",
+
+
+   
+
+
+    "projects-link": "Link:",
+    "projects-tec": "Used technology:"
+    
+}
